@@ -1,0 +1,23 @@
+{
+  "name": "workit",
+  "version": "1.0.0",
+  "description": "![Design preview for the Workit landing page coding challenge](./preview.jpg)",
+  "main": "tailwind.config.js",
+  "dependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrettSiedschlag/workit-landing-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrettSiedschlag/workit-landing-page/issues"
+  },
+  "homepage": "https://github.com/BrettSiedschlag/workit-landing-page/src/index.html"
+}
